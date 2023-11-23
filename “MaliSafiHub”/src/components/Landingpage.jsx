@@ -9,10 +9,10 @@ function Landingpage() {
                 <img src="https://beautyclick.co.ke/cdn/shop/collections/wigs_copy_1950x.jpg?v=1683721678" class="d-block w-100" alt="beauty"> /</img>
         </div>
           <div class="carousel-item">
-             <img src="" class="d-block w-100" alt="beauty"> /</img>
+             <img src="https://beautyclick.co.ke/cdn/shop/collections/wigs_copy_1950x.jpg?v=1683721678" class="d-block w-100" alt="beauty"> /</img>
          </div>
         <div class="carousel-item">
-           <img src="..." class="d-block w-100" alt="beauty"> /</img>
+           <img src="https://beautyclick.co.ke/cdn/shop/collections/wigs_copy_1950x.jpg?v=1683721678" class="d-block w-100" alt="beauty"> /</img>
          </div>
              </div>
         </div>
